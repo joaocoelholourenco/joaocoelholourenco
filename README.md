@@ -2,7 +2,7 @@
 
 <h2>I'm João Lourenço!</h2>
 
-I'm Front-End Developer.
+I'm a Front-End Developer.
 
 <!--
 <sup>*_WakaTime started counting from Sept 07 2022_</sup>
@@ -19,7 +19,7 @@ I'm Front-End Developer.
 :sparkles: To know more about me, open your terminal and run the command below:
 
 ```bash
-yarn jão
+npx jao
 ```
 
 I'm passionate about JavaScript, TypeScript, React and everything that involves these technologies.
