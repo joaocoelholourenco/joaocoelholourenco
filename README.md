@@ -2,7 +2,7 @@
 
 <h2>I'm João Lourenço!</h2>
 
-I'm a Front-End Developer.
+I'm a Developer.
 
 
 <sup>*_WakaTime started counting from Sept 07 2022_</sup>
@@ -16,21 +16,9 @@ I'm a Front-End Developer.
 <code><img height="20" title="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" title="React Native" src="https://reactnative.dev/img/header_logo.svg"></code>
 
-:sparkles: To know more about me, open your terminal and run the command below:
-
 ```bash
 npx jao
 ```
-
-I'm passionate about JavaScript, TypeScript, React and everything that involves these technologies.
-
-My main skill is using React and React Native. I'm a great enthusiast NodeJS too.
-
-I am studying Information System at [IFG](http://w2.ifg.edu.br/luziania/index.php/component/content/article/941-bacharelado-em-sistemas-de-informacao).
-
-I am also twice certified in [Rocketseat's](https://rocketseat.com.br/) GoStack Bootcamp, which is currently the best educational platform for teaching programming in Brazil. GoStack is a bootcamp focused on React, React Native and Node stacks.
-
-I am also certified in the [Rocketseat Ignite](https://rocketseat.com.br/ignite) course, focused on React.
 
 ---
 
