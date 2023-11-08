@@ -35,6 +35,5 @@ I am also certified in the [Rocketseat Ignite](https://rocketseat.com.br/ignite)
 ---
 
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-   <img width="380px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=joaovitorcl13&show_icons=true&theme=dark&count_private=true" />
   <img width="380px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorcl13&count_private=true?username=joaovitorcl13&count_private=true&langs_count=4&layout=compact&theme=dark&hide=html,tsql,css,plpgsql,objective-c" />
 </div>
