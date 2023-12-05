@@ -1,8 +1,6 @@
 <h1>Hey! 👋</h1>
 
-<h2>I'm João Lourenço!</h2>
-
-I'm a Developer.
+My name is João Lourenço and I'm from Brazil (🇧🇷). I've been working as a Developer since 2019.
 
 
 <sup>*_WakaTime started counting from Sept 07 2022_</sup>
