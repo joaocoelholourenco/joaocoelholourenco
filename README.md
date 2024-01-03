@@ -8,12 +8,11 @@ My name is João Lourenço and I'm from Brazil (🇧🇷). I've been working as 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Louren%C3%A7o-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-louren%C3%A7o-398823167/)](https://www.linkedin.com/in/jo%C3%A3o-louren%C3%A7o-398823167/) [![Gmail Badge](https://img.shields.io/badge/-joaovitorcoelho13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitorcoelho13@gmail.com)](mailto:joaovitorcoelho13@gmail.com) [![wakatime](https://wakatime.com/badge/user/eccc1b9a-0e99-4bfb-aaeb-924c968bbdcb.svg)](https://wakatime.com/@eccc1b9a-0e99-4bfb-aaeb-924c968bbdcb)
 
+<code><img height="20" title="Nextjs" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 <code><img height="20" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" title="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" title="Nextjs" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-
 <code><img height="20" title="React Native" src="https://reactnative.dev/img/header_logo.svg"></code>
 
 ```bash
